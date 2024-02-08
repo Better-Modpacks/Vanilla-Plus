@@ -11,6 +11,9 @@ The Vanilla+ modpack enhances your Minecraft experience without adding new block
 - **Visual Improvements:** Enhance textures, shaders, lighting effects, etc.
 - **Quality of Life Enhancements:** Improve user interface, tooltips, and customization options.
 
+### Mods:
+- [Here]()
+
 ### Installation:
 1. **Download the Modpack:** Get the Vanilla+ modpack from the provided link.
 2. **Put the modpack:** Put the modpack in "versions" folder
@@ -20,7 +23,7 @@ The Vanilla+ modpack enhances your Minecraft experience without adding new block
 Report problems or suggest improvements on our GitHub page.
 
 ### License:
-The Vanilla+ modpack is under the [MIT] license.
+The Vanilla+ modpack is under the [MIT](https://github.com/Better-Modpacks/Vanilla-Plus?tab=MIT-1-ov-file) license.
 
 ### Version:
 Current version: 1.0.0
