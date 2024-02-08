@@ -12,7 +12,7 @@ The Vanilla+ modpack enhances your Minecraft experience without adding new block
 - **Quality of Life Enhancements:** Improve user interface, tooltips, and customization options.
 
 ### Mods:
-- [Here]()
+- [Here](https://github.com/Better-Modpacks/Vanilla-Plus/blob/main/mods.md)
 
 ### Installation:
 1. **Download the Modpack:** Get the Vanilla+ modpack from the provided link.
